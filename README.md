@@ -10,5 +10,5 @@ Durante a análise, iremos identificar os problemas no código existente e discu
 
 ## Relatório
 
-Um relatório detalhado com a análise do código e as propostas de melhorias está disponível no formato PDF dentro deste repositório com o nome *Trabalho final - Padrões de Projeto e Multicamadas.pdf *. Ele fornece uma visão abrangente do trabalho realizado e das decisões tomadas ao longo do processo.
+Um relatório detalhado com a análise do código e as propostas de melhorias está disponível no formato PDF dentro deste repositório com o nome **Trabalho final - Padrões de Projeto e Multicamadas.pdf**. Ele fornece uma visão abrangente do trabalho realizado e das decisões tomadas ao longo do processo.
 
